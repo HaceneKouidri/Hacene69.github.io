@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+  <dict>
+    <key>delta</key>
+    <string>delta.glif</string>
+    <key>gamma</key>
+    <string>gamma.glif</string>
+    <key>omega</key>
+    <string>omega.glif</string>
+    <key>rho.ss01</key>
+    <string>rho.ss01.glif</string>
+    <key>tonos</key>
+    <string>tonos.glif</string>
+    <key>tonos.cap</key>
+    <string>tonos.cap.glif</string>
+    <key>uni0431</key>
+    <string>uni0431.glif</string>
+    <key>xi</key>
+    <string>xi.glif</string>
+    <key>zeta</key>
+    <string>zeta.glif</string>
+  </dict>
+</plist>

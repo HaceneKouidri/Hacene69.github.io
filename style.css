@@ -1,0 +1,43 @@
+html {
+  background: url(./assets/BACKIMG.jpg) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+body {
+  margin: 0px;
+  padding: 0%;
+}
+
+h1 {
+  width: 90%;
+  margin-block-start: 0.5em;
+  margin-block-end: 0.5;
+}
+h1 ul {
+  margin: 0px;
+  padding: 0px;
+  overflow: hidden;
+}
+
+h1 li {
+  list-style: none;
+  float: left;
+}
+
+@font-face {
+  font-family: "Le Murmure";
+  src: url(./assets/murmure-e6fa392ae51d39fed86df9a98b99078664e889d1/fonts/le-murmure.otf);
+  font-weight: normal;
+  font-style: normal;
+}
+
+h1 a {
+  font-family: "Le Murmure";
+  display: inline-block;
+  text-decoration: underline rgb(41, 41, 41);
+  padding: 5px 10px;
+  color: red;
+  cursor: pointer;
+}
